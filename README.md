@@ -3,4 +3,4 @@
 
 Go to [Folder](Folder)
 
-![](/image.png)
+![](image.png)
