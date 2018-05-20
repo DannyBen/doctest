@@ -8,7 +8,7 @@ Platforms Under Examination
 
 - GitHub
 - [GitHub Pages](https://dannyben.github.io/doctest/)
-- [Read the Docs](http://dannyb-doctest.readthedocs.io/en/latest/README.md)
+- [Read the Docs](http://dannyb-doctest.readthedocs.io/en/latest/README/)
 
 
 Link Test
