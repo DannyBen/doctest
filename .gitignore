@@ -1,0 +1,8 @@
+# Madness files
+_index
+.madness.yml
+
+# Jekyll files
+.sass-cache
+_site
+Gemfile.lock

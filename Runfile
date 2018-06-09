@@ -1,0 +1,6 @@
+title   "GitHub Pages Tests"
+
+help   "Serve the jekyll site locally"
+action :serve, :s do
+  run! "jekyll serve -H 0.0.0.0 -P 3000 -w --force_polling"
+end
